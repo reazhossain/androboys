@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title=""
+        />
+    <item android:title="জলসীমা"
+        android:id="@+id/nav_item_joloshima"
+        android:icon="@drawable/icn_joloshima"/>
+
+    <item android:title="দিক নির্ণয়"
+        android:id="@+id/nav_item_direction"
+        android:icon="@drawable/icn_direction"/>
+
+    <item android:title="চিহ্নিত করণ"
+        android:id="@+id/nav_item_marker"
+        android:icon="@drawable/icn_marker"/>
+    <item android:title="জরুরী যোগাযোগ"
+        android:id="@+id/nav_item_coastguard"
+        android:icon="@drawable/icn_coastguard"/>
+
+</menu>

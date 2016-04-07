@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title=""
+        />
+    <item android:title="মাছ সংরক্ষণ"
+          android:id="@+id/nav_item_fishCollect"
+          android:icon="@drawable/icn_fish_collect"/>
+
+    <item android:title="মাছের খাবার"
+          android:id="@+id/nav_item_fishFeed"
+          android:icon="@drawable/icn_fish_feed"/>
+
+    <item android:title="ব্যাংক লোন"
+          android:id="@+id/nav_item_loan"
+          android:icon="@drawable/icn_loan"/>
+    <item android:title="মৎস অফিস "
+        android:id="@+id/nav_item_fishOffice"
+        android:icon="@drawable/icn_fish_office"/>
+
+
+
+
+
+
+
+</menu>
